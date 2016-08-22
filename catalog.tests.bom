@@ -7,7 +7,7 @@ brooklyn.catalog:
   iconUrl: classpath:///nodejs-logo.png
   item:
     services:
-    - type: com.canopy.compose.nodejs
+    - type: brooklyn-nodejs-application
       id: parent-app
       brooklyn.config:
         nodejs.gitRepo.url: https://github.com/iyovcheva/dummy-repo.git
