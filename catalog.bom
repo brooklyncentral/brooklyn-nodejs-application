@@ -22,6 +22,7 @@ brooklyn.catalog:
   name: Node.JS Application
   description: Node.js is a cross-platform runtime environment for server-side and networking applications. Node.js applications are written in JavaScriptq
   itemType: template
+  iconUrl: https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg
   license: Apache-2.0
   publish:
     license_code: Apache-2.0
